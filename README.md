@@ -1,5 +1,5 @@
-# CS111
-Operating Systems. UCLA CS111, Professor Peter Reiher, Winter 2018.
+# Operating Systems (UCLA)
+Operating Systems. Winter 2018.
 
 Included in the reposity are files provided by the professor, usually with the
 specification document titled <Project#>.html and a quick test script called
