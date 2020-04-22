@@ -1,7 +1,7 @@
 # Operating Systems (UCLA)
 Operating Systems. Peter Reiher. Winter 2018.
 
-Included in the reposity are files provided by the professor, usually with the
+Included in the repository are files provided by the professor, usually with the
 specification document titled <Project#>.html and a quick test script called
 <Project#>_ check.sh. Individual README documents for projects give more information
 about what files were included in the submission. 
